@@ -1,1 +1,17 @@
 /* your styles go here */
+
+
+a.tech {
+  color: white;
+  text-decoration: underline;
+}
+
+a.tech:hover {
+  /*background-color:#4fbfa8;*/
+  background-color:black;
+}
+
+
+a.tech:active {
+    color: black;
+  }
