@@ -519,5 +519,13 @@
     <script src="vendor/jquery.counterup/jquery.counterup.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
     <script src="js/front.js"></script>
+    <script>
+        $(document).on('click','.navbar-collapse.in',function(e) {
+          if( $(e.target).is('a:not(".dropdown-toggle")') ) {
+            $(this).collapse('hide');
+          }
+        });
+    </script> 
+
   </body>
 </html>
