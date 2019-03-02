@@ -20,7 +20,7 @@ a.tech:hover {
 a.tech:active {
     color: black;
   }
-/*
+
   @media screen and (max-width: 700px) {
     .title {
       display: inline-block;
@@ -34,10 +34,8 @@ a.tech:active {
       text-transform: uppercase;
       letter-spacing: 0.1em;
       line-height: 1.2;
-      color: red;
-      
+      color: #555;
       margin-top: 20px;
       letter-spacing: 0;
     }
   }
-*/
