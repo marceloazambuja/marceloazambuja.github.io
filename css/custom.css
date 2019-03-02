@@ -34,8 +34,9 @@ a.tech:active {
       text-transform: uppercase;
       letter-spacing: 0.1em;
       line-height: 1.2;
-      color: #ccc;
+      color: #555;
       margin-top: 20px;
       letter-spacing: 0;
     }
   }
+  
