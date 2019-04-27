@@ -627,6 +627,14 @@ footer.main-footer p.social a.email {
   background-color: #4a7f45;
 }
 
+footer.main-footer p.social a.github {
+  background-color:white;
+}
+
+footer.main-footer p.social a.gitlab {
+  background-color:gray;
+}
+
 footer.main-footer p {
   margin: 0;
   color: #eee;
